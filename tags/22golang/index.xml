@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>22golang on 梦想成真的博客</title>
+    <link>https://lwgitb.github.io/tags/22golang/</link>
+    <description>Recent content in 22golang on 梦想成真的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate><atom:link href="https://lwgitb.github.io/tags/22golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Golang Gin 实战（五）| 接收数组和 Map</title>
+      <link>https://lwgitb.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>https://lwgitb.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
+      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+    </item>
+    
+    <item>
+      <title>Golang Gin 实战（五）| 接收数组和 Map</title>
+      <link>https://lwgitb.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>https://lwgitb.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
+      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 梦想成真的博客</title>
+    <link>https://lwgitb.github.io/post/</link>
+    <description>Recent content in Posts on 梦想成真的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 26 Apr 2022 01:28:19 +0800</lastBuildDate><atom:link href="https://lwgitb.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022042502 Journal About Blog</title>
+      <link>https://lwgitb.github.io/post/2022042502-Journal-about-blog/</link>
+      <pubDate>Tue, 26 Apr 2022 01:28:19 +0800</pubDate>
+      
+      <guid>https://lwgitb.github.io/post/2022042502-Journal-about-blog/</guid>
+      <description>##这是一个测试 这是一个测试</description>
+    </item>
+    
+    <item>
+      <title>20220425日记</title>
+      <link>https://lwgitb.github.io/2022/04/25/Journal-about-build-blog.html</link>
+      <pubDate>Mon, 25 Apr 2022 21:55:00 +0800</pubDate>
+      
+      <guid>https://lwgitb.github.io/2022/04/25/Journal-about-build-blog.html</guid>
+      <description>建博的一点感想 事情往往是这样，看起来简单做起来难，正所谓，知易行难。又有话，会者不难难者不会也，所以还是要学会。 一开始进展很顺利，很快就把代码部署到了网上，也看到了博客的雏形，心里有些小激动。但很快就高兴不起来了，建好后的博客更新后，再push到网上的时候就一直出错，而网上的教程</description>
+    </item>
+    
+    <item>
+      <title>20220425日记</title>
+      <link>https://lwgitb.github.io/2022/04/25/Journal-about-build-blog.html</link>
+      <pubDate>Mon, 25 Apr 2022 21:55:00 +0800</pubDate>
+      
+      <guid>https://lwgitb.github.io/2022/04/25/Journal-about-build-blog.html</guid>
+      <description>建博的一点感想 事情往往是这样，看起来简单做起来难，正所谓，知易行难。又有话，会者不难难者不会也，所以还是要学会。 一开始进展很顺利，很快就把代码部署到了网上，也看到了博客的雏形，心里有些小激动。但很快就高兴不起来了，建好后的博客更新后，再push到网上的时候就一直出错，而网上的教程</description>
+    </item>
+    
+    <item>
+      <title>20220426日记</title>
+      <link>https://lwgitb.github.io/post/2022042401-test/</link>
+      <pubDate>Mon, 25 Apr 2022 21:00:00 +0800</pubDate>
+      
+      <guid>https://lwgitb.github.io/post/2022042401-test/</guid>
+      <description>建博的一点感想 事情往往是这样，看起来简单做起来难，正所谓，知易行难。又有话，会者不难难者不会也，所以还是要学会。 一开始进展很顺利，很快就把代码部署到了网上，也看到了博客的雏形，心里有些小激动。但很快就高兴不起来了，建好后的博客更新后，再push到网上的时候就一直出错，而网上的教程</description>
+    </item>
+    
+    <item>
+      <title>Congratulations!</title>
+      <link>https://lwgitb.github.io/post/2022042401-Journal-congratulations/</link>
+      <pubDate>Sun, 24 Apr 2022 21:00:00 +0800</pubDate>
+      
+      <guid>https://lwgitb.github.io/post/2022042401-Journal-congratulations/</guid>
+      <description>Congratulations！ 终于可以更新了！ 终于可以更新了！ 终于可以更新了！ 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+    </item>
+    
+    <item>
+      <title>Golang Gin 实战（五）| 接收数组和 Map</title>
+      <link>https://lwgitb.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>https://lwgitb.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
+      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+    </item>
+    
+    <item>
+      <title>Golang Gin 实战（五）| 接收数组和 Map</title>
+      <link>https://lwgitb.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>https://lwgitb.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
+      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+    </item>
+    
+    <item>
+      <title>Golang Gin 实战（三）| 路由参数</title>
+      <link>https://lwgitb.github.io/post/2019-12-13-golang-gin-parameters-in-path-%E5%89%AF%E6%9C%AC-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
+      
+      <guid>https://lwgitb.github.io/post/2019-12-13-golang-gin-parameters-in-path-%E5%89%AF%E6%9C%AC-%E5%89%AF%E6%9C%AC/</guid>
+      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+    </item>
+    
+    <item>
+      <title>Golang Gin 实战（三）| 路由参数</title>
+      <link>https://lwgitb.github.io/post/2019-12-13-golang-gin-parameters-in-path-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
+      
+      <guid>https://lwgitb.github.io/post/2019-12-13-golang-gin-parameters-in-path-%E5%89%AF%E6%9C%AC/</guid>
+      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+    </item>
+    
+    <item>
+      <title>Golang Gin 实战（三）| 路由参数</title>
+      <link>https://lwgitb.github.io/post/2019-12-13-golang-gin-parameters-in-path/</link>
+      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
+      
+      <guid>https://lwgitb.github.io/post/2019-12-13-golang-gin-parameters-in-path/</guid>
+      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+    </item>
+    
+    <item>
+      <title>Golang Gin 实战（三）| 路由参数</title>
+      <link>https://lwgitb.github.io/post/2019-12-15-golang-gin-query-parameters-source-code-analysis-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
+      
+      <guid>https://lwgitb.github.io/post/2019-12-15-golang-gin-query-parameters-source-code-analysis-%E5%89%AF%E6%9C%AC/</guid>
+      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+    </item>
+    
+    <item>
+      <title>Golang Gin 实战（三）| 路由参数</title>
+      <link>https://lwgitb.github.io/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</link>
+      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
+      
+      <guid>https://lwgitb.github.io/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</guid>
+      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+    </item>
+    
+  </channel>
+</rss>
